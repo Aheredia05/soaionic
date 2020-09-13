@@ -1,0 +1,7 @@
+{
+  "name": "comsumo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
